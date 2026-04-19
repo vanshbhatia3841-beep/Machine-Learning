@@ -75,7 +75,7 @@ A comprehensive Jupyter Notebook covering fundamental Machine Learning and Data 
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/vanshbhatia3841-beep/ML-Lab.git
+   git clone https://github.com/vanshbhatia3841-beep/Machine-Learning
    cd ML-Lab
    ```
 
