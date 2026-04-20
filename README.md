@@ -85,8 +85,6 @@ A collection of four Jupyter Notebooks covering foundational Machine Learning co
    ```bash
    jupyter notebook Preprocessing.ipynb
    ```
-
-> ⚠️ Make sure `titanic.csv` and `Salary_Dataset.csv` are in the **same directory** as the notebooks before running all cells.
 >
 > 📝 If running locally, remove the `from google.colab import files` cell in `Preprocessing.ipynb` and load the CSV directly with `pd.read_csv("titanic.csv")`.
 
